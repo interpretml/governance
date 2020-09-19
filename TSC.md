@@ -4,5 +4,4 @@ This document lists the TSC of the Organization. Voting members may be added onc
 
 | **NAME** | **Organization** |
 | --- | --- |
-| * TSC member | |
-| * ... | |
+| Paul Koch | Microsoft |

@@ -6,3 +6,4 @@ This document lists the TSC of the Organization. Voting members may be added onc
 | --- | --- |
 | Rich Caruana | Microsoft |
 | Paul Koch | Microsoft |
+| Harsha Nori | |

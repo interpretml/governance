@@ -9,3 +9,4 @@ This document lists the TSC of the Organization. Voting members may be added onc
 | Paul Koch | Microsoft |
 | Yin Lou | |
 | Harsha Nori | |
+| Cynthia Rudin | |

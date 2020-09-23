@@ -10,3 +10,4 @@ This document lists the TSC of the Organization. Voting members may be added onc
 | Yin Lou | |
 | Harsha Nori | |
 | Cynthia Rudin | |
+| Scott Lundberg | |

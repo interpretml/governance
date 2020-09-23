@@ -8,6 +8,6 @@ This document lists the TSC of the Organization. Voting members may be added onc
 | Samuel Jenkins | |
 | Paul Koch | Microsoft |
 | Yin Lou | |
+| Scott Lundberg | |
 | Harsha Nori | |
 | Cynthia Rudin | |
-| Scott Lundberg | |

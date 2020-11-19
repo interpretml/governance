@@ -28,9 +28,7 @@ The membership of a TSC member will terminate if any of the following occur:
 
 **4.2 Unreachable Member**. If a member is unresponsive at its listed handle for more than one month the TSC may vote to remove the member.
 
-**4.3 Violation of Policies or Duties of Membership**. If the TSC unanimously (except for the concerned member) finds that member—after member has had notice and opportunity to be heard on the issue—has violated any material provision of this Charter or other the Organization policies or procedures.
-
-[or above 3/4 vote]
+**4.3 Violation of Policies or Duties of Membership**. If the TSC by 3/4 affirmative vote finds that member—after member has had notice and opportunity to be heard on the issue—has violated any material provision of this Charter or other the Organization policies or procedures.
 
 ## 5. Trademarks
 

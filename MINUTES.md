@@ -1,5 +1,17 @@
 # InterpretML TSC minutes
 
+## December 2nd, 2021
+### Communication: email
+### Participants: Rich Caruana, Samuel Jenkins, Paul Koch, Yin Lou, Scott Lundberg, Harsha Nori, Cynthia Rudin
+### Vote: Including gam-changer as a repo in the InterpretML organization
+- Rich Caruana: YES
+- Samuel Jenkins: YES
+- Paul Koch: YES
+- Yin Lou: YES
+- Scott Lundberg: YES
+- Harsha Nori: YES
+- Cynthia Rudin: YES
+
 ## May 8th, 2021
 ### Communication: email
 ### Participants: Rich Caruana, Samuel Jenkins, Paul Koch, Yin Lou, Scott Lundberg, Harsha Nori, Cynthia Rudin

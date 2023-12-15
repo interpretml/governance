@@ -1,5 +1,17 @@
 # InterpretML TSC minutes
 
+## November 27th, 2023
+### Communication: email
+### Participants: Rich Caruana, Samuel Jenkins, Paul Koch, Yin Lou, Scott Lundberg, Harsha Nori, Cynthia Rudin
+### Vote: Move the FasterRisk and fastSparse repos into the InterpretML organization
+- Rich Caruana: YES
+- Samuel Jenkins: YES
+- Paul Koch: YES
+- Yin Lou: YES
+- Scott Lundberg: YES
+- Harsha Nori: YES
+- Cynthia Rudin: YES
+
 ## December 2nd, 2021
 ### Communication: email
 ### Participants: Rich Caruana, Samuel Jenkins, Paul Koch, Yin Lou, Scott Lundberg, Harsha Nori, Cynthia Rudin
